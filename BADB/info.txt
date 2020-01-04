@@ -16,11 +16,15 @@ metro --------- subway
 metro_st ------ subway station
 parque -------- park
 peatonal ------ pedestrian street
+residencial --- residential
 plaza --------- public square
+terminal ------ terminal
 tienda -------- shop
 supermercado -- supermarket
 transito ------ traffic street
 tren ---------- train
 _______________________________________________
-Classes:    15
+Classes:    17
 Size:       5.00 GB
+Duration:   30 sec
+Total:      460 min
