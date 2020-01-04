@@ -23,4 +23,4 @@ transito ------ traffic street
 tren ---------- train
 _______________________________________________
 Classes:    15
-Size:       2.37 GB
+Size:       5.00 GB
