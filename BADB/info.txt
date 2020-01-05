@@ -24,7 +24,11 @@ supermercado -- supermarket
 transito ------ traffic street
 tren ---------- train
 _______________________________________________
-Classes:    17
-Size:       5.00 GB
-Duration:   30 sec
-Total:      460 min
+Classes:          17
+Size:             5.00 GB
+Clip Duration:    30 sec
+Total Duration:   460 min
+Audio Format:     .wav
+Encoding:         PCM-FLOAT32
+Sample Rate:      48000 Hz
+Device:           MotoG4
