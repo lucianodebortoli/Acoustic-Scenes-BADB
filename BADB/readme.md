@@ -3,7 +3,8 @@
 ### Luciano De Bortoli.
 luciano.nicolas.de.bortoli@gmail.com
 Universidad Nacional de Tres de Febrero
-_______________________________________________
+
+* * *
 
 ## CLASSES
 1. auto ---------- car
@@ -23,7 +24,9 @@ _______________________________________________
 15. supermercado -- supermarket
 16. transito ------ traffic street
 17. tren ---------- train
-_______________________________________________
+
+* * *
+
 * Classes:          17
 * Size:             5.00 GB
 * Clip Duration:    30 sec
