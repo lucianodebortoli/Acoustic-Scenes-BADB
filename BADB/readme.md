@@ -1,9 +1,7 @@
 # BADB-2019
 #### Universidad Nacional de Tres de Febrero `UNTREF`
-###### luciano.nicolas.de.bortoli@gmail.com
-
 > Acoustic Scene Recognition Evaluation Dataset recorded in Buenos Aires city in 2019. Originally inteded for scene recognition model evaluation. Author: Luciano De Bortoli.
-
+###### luciano.nicolas.de.bortoli@gmail.com
 ## CLASSES
 N | Clase | Class
 | :---: |:---:| :---: |
@@ -24,9 +22,7 @@ N | Clase | Class
 15 | supermercado  |  supermarket
 16 | transito | traffic street
 17 | tren | train
-
 * * *
-
 * Classes:          17
 * Size:             5.00 GB
 * Clip Duration:    30 sec
