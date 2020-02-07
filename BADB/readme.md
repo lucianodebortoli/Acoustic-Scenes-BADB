@@ -22,8 +22,8 @@ Universidad Nacional de Tres de Febrero
 13. terminal ------ terminal
 14. tienda -------- shop
 15. supermercado -- supermarket
-16. transito ------ traffic street
-17. tren ---------- train
+16. transito        traffic street
+17. tren            train
 
 * * *
 
