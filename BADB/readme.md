@@ -7,23 +7,25 @@ Universidad Nacional de Tres de Febrero
 * * *
 
 ## CLASSES
-1. auto ---------- car
-2. biblioteca ---- library
-3. bus ----------- bus
-4. cafe_resto ---- coffee shop & restaurant
-5. casa ---------- house
-6. comercial ----- comertial indoors
-7. metro --------- subway
-8. metro_st ------ subway station
-9. parque -------- park
-10. peatonal ------ pedestrian street
-11. residencial --- residential
-12. plaza --------- public square
-13. terminal ------ terminal
-14. tienda -------- shop
-15. supermercado -- supermarket
-16. transito        traffic street
-17. tren            train
+N | Clase | Class
+| :---: |:---:| :---: |
+1. | auto car
+2. | biblioteca | library
+3. | bus  | bus
+4. | cafe_resto  | coffee shop & restaurant
+5. | casa  | house
+6. | comercial  | comertial indoors
+7. | metro  | subway
+8. | metro_st  | subway station
+9. | parque  | park
+10. | peatonal  | pedestrian street
+11. | residencial  |  residential
+12. | plaza  | public square
+13. | terminal  | terminal
+14. | tienda  | shop
+15. | supermercado  |  supermarket
+16. | transito | traffic street
+17. | tren | train
 
 * * *
 
@@ -35,9 +37,3 @@ Universidad Nacional de Tres de Febrero
 * Encoding:         PCM-FLOAT32
 * Sample Rate:      48000 Hz
 * Device:           MotoG4
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
