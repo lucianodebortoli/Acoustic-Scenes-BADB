@@ -1,5 +1,4 @@
 # Evaluation Dataset (BADB-2019)
-## Buenos Aires, Argentina 
 ### Luciano De Bortoli.
 #### Universidad Nacional de Tres de Febrero `UNTREF`
 ##### luciano.nicolas.de.bortoli@gmail.com
