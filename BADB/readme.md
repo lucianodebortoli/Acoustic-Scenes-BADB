@@ -9,7 +9,7 @@ Universidad Nacional de Tres de Febrero
 ## CLASSES
 N | Clase | Class
 | :---: |:---:| :---: |
-1. | auto car
+1. | auto | car
 2. | biblioteca | library
 3. | bus  | bus
 4. | cafe_resto  | coffee shop & restaurant
