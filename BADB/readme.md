@@ -6,23 +6,23 @@ Universidad Nacional de Tres de Febrero
 _______________________________________________
 
 ## CLASSES
-* auto ---------- car
-* biblioteca ---- library
-* bus ----------- bus
-* cafe_resto ---- coffee shop & restaurant
-* casa ---------- house
-* comercial ----- comertial indoors
-* metro --------- subway
-* metro_st ------ subway station
-* parque -------- park
-* peatonal ------ pedestrian street
-* residencial --- residential
-* plaza --------- public square
-* terminal ------ terminal
-* tienda -------- shop
-* supermercado -- supermarket
-* transito ------ traffic street
-* tren ---------- train
+1. auto ---------- car
+2. biblioteca ---- library
+3. bus ----------- bus
+4. cafe_resto ---- coffee shop & restaurant
+5. casa ---------- house
+6. comercial ----- comertial indoors
+7. metro --------- subway
+8. metro_st ------ subway station
+9. parque -------- park
+10. peatonal ------ pedestrian street
+11. residencial --- residential
+12. plaza --------- public square
+13. terminal ------ terminal
+14. tienda -------- shop
+15. supermercado -- supermarket
+16. transito ------ traffic street
+17. tren ---------- train
 _______________________________________________
 * Classes:          17
 * Size:             5.00 GB
