@@ -2,6 +2,7 @@
 #### Universidad Nacional de Tres de Febrero `UNTREF`
 > Acoustic Scene Recognition Evaluation Dataset recorded in Buenos Aires city in 2019. Originally inteded for scene recognition model evaluation. Author: Luciano De Bortoli.
 ###### luciano.nicolas.de.bortoli@gmail.com
+* * *
 * Classes:          17
 * Size:             5.00 GB
 * Clip Duration:    30 sec
