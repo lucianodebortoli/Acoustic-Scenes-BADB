@@ -1,10 +1,10 @@
-# Evaluation Dataset (BADB-2019)
+# BADB-2019
 ### Luciano De Bortoli.
 #### Universidad Nacional de Tres de Febrero `UNTREF`
 ##### luciano.nicolas.de.bortoli@gmail.com
 
 
-> Acoustic Scene Recognition Evaluation Dataset recorded in Buenos Aires city in 2019.
+> Acoustic Scene Recognition Evaluation Dataset recorded in Buenos Aires city in 2019. Originally inteded for scene recognition model evaluation.
 
 ## CLASSES
 N | Clase | Class
