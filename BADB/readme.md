@@ -6,6 +6,8 @@ Universidad Nacional de Tres de Febrero `UNTREF`
 
 * * *
 
+> Acoustic Scene Recognition Evaluation Dataset recorded in Buenos Aires city in 2019.
+
 ## CLASSES
 N | Clase | Class
 | :---: |:---:| :---: |
