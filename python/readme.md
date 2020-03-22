@@ -4,6 +4,7 @@
 * TUT 2017
 * TUT 2018
 
+Tras una inspección manual, se aplican preprocesos a los audios de las bases de datos que consisten en filtrado y limpieza de muestras.
 Se seleccionan y combinan algunas de las clases de las bases de datos para formar una nueva base de datos "COMBI".
 
 <img src="images/combi.png" height="350">
@@ -19,8 +20,26 @@ Para el modelo clasificador se utiliza una arquitectura de tipo CNN.
 
 <img src="images/model.png" height="350">
 
+## Aumento de Datos
+Para el entrenamiento del modelo se interviene cada lote para aplicar procesos de aumento de datos sobre los espectrogramas.
+Los procesos consisten en aplicar un filtro aleatorio de tipologia Butterworth, los cuales mostraron mejoras en el rendimiento.
+
 <img src="images/augment.png">
+
+## Entrenamiento
+El modelo se entrena por 40 épocas, eligiendo la versión con mejor rendimiento con datos de validación.
 
 <img src="images/training.png" height="350">
 
+## Evaluación
+El modelo se evalúa utilizando la bases de datos de evaluación BADB, la cual consiste en registros de audio de 
+diferentes lugares de Buenos Aires, utilizando un único dispositivo móvil (Motorola G4).
+
 <img src="images/confusion.png">
+
+Los resultados obtenidos con este set de evaluación BADB se distinguen de los obtenidos con la partición de evaluación de COMBI,
+mostrando que el modelo no logra generalizar todas las clases de escenas sonoras, aunque se rescata el rendimiento para la clasificación de interiores de hogar, automóviles y autobuses. 
+
+## Discusión
+Se piensa que la limitación más importante son las bases de datos de entrenamiento, las cuales presentan alta parcialidad a las 
+escenas sonoras registradas en ciudades europeas y con una limitada variedad de dispositivos móviles.
