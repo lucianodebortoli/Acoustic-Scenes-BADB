@@ -1,4 +1,6 @@
-# CNN Model
+# Clasificador de Escenas Sonoras
+Luciano De Bortoli
+Universidad Nacional de Tres de Febrero
 
 ## Base de datos:
 * TUT 2017
@@ -43,3 +45,6 @@ mostrando que el modelo no logra generalizar todas las clases de escenas sonoras
 ## Discusión
 Se piensa que la limitación más importante son las bases de datos de entrenamiento, las cuales presentan alta parcialidad a las 
 escenas sonoras registradas en ciudades europeas y con una limitada variedad de dispositivos móviles.
+
+## DEMO
+Para realizar una predicción sobre una señal de audio utilizando el clasificador, correr predict.py con python.
