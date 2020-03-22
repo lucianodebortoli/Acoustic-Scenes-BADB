@@ -48,3 +48,5 @@ escenas sonoras registradas en ciudades europeas y con una limitada variedad de 
 
 ## DEMO
 Para realizar una predicción sobre una señal de audio utilizando el clasificador, correr predict.py con python.
+Como argumento señalar la ruta al archivo de audio (.wav).
+Como salida, se genera una imagen mostrando las predicciones del modelo para cada segmento de 2.7 segundos de duración.
