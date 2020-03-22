@@ -5,7 +5,6 @@ import os
 import csv
 import time
 import scipy
-import keras
 import shutil
 import random
 import sklearn
@@ -19,6 +18,7 @@ import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
 from contextlib import redirect_stdout
 from tensorflow import lite # needs nightly build for using TFconverter
+import keras
 print ("Keras Version: ", keras.__version__)
 
 def save_text(string,savemane):
