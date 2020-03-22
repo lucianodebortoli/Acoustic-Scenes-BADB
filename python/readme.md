@@ -47,6 +47,9 @@ Se piensa que la limitación más importante son las bases de datos de entrenami
 escenas sonoras registradas en ciudades europeas y con una limitada variedad de dispositivos móviles.
 
 ## DEMO
-Para realizar una predicción sobre una señal de audio utilizando el clasificador, correr predict.py con python.
+Para realizar una predicción sobre una señal de audio utilizando el clasificador, correr predict.py con una consola.
 Como argumento señalar la ruta al archivo de audio (.wav).
 Como salida, se genera una imagen mostrando las predicciones del modelo para cada segmento de 2.7 segundos de duración.
+El modelo que realiza la inferencia es CNN.tflite, que es el mismo archivo que realiza la inferencia en la app de Android.
+
+<img src="images/predict.png">
