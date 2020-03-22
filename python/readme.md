@@ -1,6 +1,6 @@
 # Clasificador de Escenas Sonoras
-Luciano De Bortoli
-Universidad Nacional de Tres de Febrero
+Luciano De Bortoli <br/>
+Universidad Nacional de Tres de Febrero <br/>
 
 ## Base de datos:
 * TUT 2017
