@@ -17,6 +17,8 @@ Cada espectrograma tiene 128 componentes temporales que representan 2.7 segundos
 El espectrograma se obtiene calculando una FFT cada 1024 muestras de audio,
 utilizando ventanas hanning de 2048 muestras de tamaño. <br/>
 
+<img src="images/mels.png" height="350">
+
 ## Modelo:
 Para el modelo clasificador se utiliza una arquitectura de tipo CNN.
 
