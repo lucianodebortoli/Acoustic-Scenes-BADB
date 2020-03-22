@@ -18,7 +18,7 @@ El espectrograma se obtiene calculando una FFT cada 1024 muestras de audio,
 utilizando ventanas hanning de 2048 muestras de tamaño. <br/>
 
 <img src="images/mels.png" height="350">
-
+Magnitudes de espectrograma en escala mel promedio por clase 
 ## Modelo:
 Para el modelo clasificador se utiliza una arquitectura de tipo CNN.
 
