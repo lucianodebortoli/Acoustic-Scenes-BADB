@@ -1,6 +1,6 @@
 # Clasificador de Escenas Sonoras
-Luciano De Bortoli
-Universidad Nacional de Tres de Febrero
+Luciano De Bortoli <br/>
+Universidad Nacional de Tres de Febrero <br/>
 
 ## Base de datos:
 * TUT 2017
@@ -9,7 +9,7 @@ Universidad Nacional de Tres de Febrero
 Tras una inspección manual, se aplican preprocesos a los audios de las bases de datos que consisten en filtrado y limpieza de muestras.
 Se seleccionan y combinan algunas de las clases de las bases de datos para formar una nueva base de datos "COMBI".
 
-<img src="images/combi.png" height="350">
+<img src="images/combi.png">
 
 ## Descriptores
 A partir de cada audio se extrae un espectrograma en escala Mel, con 128 componentes de frecuencia. <br/>
@@ -17,10 +17,13 @@ Cada espectrograma tiene 128 componentes temporales que representan 2.7 segundos
 El espectrograma se obtiene calculando una FFT cada 1024 muestras de audio,
 utilizando ventanas hanning de 2048 muestras de tamaño. <br/>
 
+<img src="images/mels.png" >
+Magnitudes de espectrograma en escala mel promedio por clase 
+
 ## Modelo:
 Para el modelo clasificador se utiliza una arquitectura de tipo CNN.
 
-<img src="images/model.png" height="350">
+<img src="images/model.png" >
 
 ## Aumento de Datos
 Para el entrenamiento del modelo se interviene cada lote para aplicar procesos de aumento de datos sobre los espectrogramas.
@@ -31,7 +34,7 @@ Los procesos consisten en aplicar un filtro aleatorio de tipologia Butterworth, 
 ## Entrenamiento
 El modelo se entrena por 40 épocas, eligiendo la versión con mejor rendimiento con datos de validación.
 
-<img src="images/training.png" height="350">
+<img src="images/training.png" >
 
 ## Evaluación
 El modelo se evalúa utilizando la bases de datos de evaluación BADB, la cual consiste en registros de audio de 
